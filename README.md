@@ -12,7 +12,7 @@ SVM model (check paper). Finally, you can select to input a sentence interactive
 
 - cd into src and type python3 main.py
 
-- If you want to run the pretrained model please move the SVM10000POS.joblib into the src folder that was uploaded on the student portal. Also, set the respective argument in the parser script (i.e. --load_model) to True.
+- If you want to run the pretrained SVM model please use the SVM10000POS.joblib. To do so set the respective argument in the parser script (i.e. --load_model) to True.
 
 
 Let me know if you require any further information or if you want to expand on the project. 
