@@ -1,4 +1,4 @@
-- This is my final NLP project - A sentence-level subjectivity classification task
+- A sentence-level subjectivity classification task
 
 TO RUN:  
 
