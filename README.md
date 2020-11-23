@@ -57,7 +57,8 @@ In the future, a BERT model can be implemented to test against the current state
 
 Attempting to identify text that is subjective; A sentence-level subjectivity classification task
 
-- In main.py an args script is given, hopefully the "help" parameter straightforward. Through this script you can run experiments using different models, with different training and test data sizes (development data is configured automatically). You can also load the best perfroming SVM model (check paper). Finally, you can select to interactively input a sentence which will then be classified by the selected model. To do this, set the `--user_input` argument to `True`
+
+- In `main.py` an args script is given, hopefully the "help" parameter straightforward. Through this script you can run experiments using different models, with different training and test data sizes (development data is configured automatically). You can also load the best perfroming SVM model (check paper). Finally, you can select to interactively input a sentence which will then be classified by the selected model. To do this, set the `--user_input` argument to `True`
 
 - `cd` into `src` and type `python3 main.py`
 
