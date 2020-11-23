@@ -2,7 +2,7 @@
 Attempting to identify text that is subjective
 
 
-- This is my first NLP project - A sentence-level subjectivity classification task
+- A sentence-level subjectivity classification task
 
 TO RUN:  
 
