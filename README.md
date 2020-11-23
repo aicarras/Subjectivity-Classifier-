@@ -3,13 +3,21 @@
 ### Table of Contents:
 
 [The Project](#The-Project)
+
 [Related Work](#Related-work)
+
 [The Model and the Task](#The-Model-and-the-Task)
+
 [The Dataset](#The-Dataset)
+
 [Conculsion](#Conclusion)
+
 [Limitations](#Limitations)
+
 [Future Work](#Future-Work)
+
 **[TO RUN](#TO-RUN)**
+
 [References/Sources](#References/Sources)
 
 ## The Project: 
