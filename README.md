@@ -3,6 +3,14 @@
 ### Table of Contents:
 
 [The Project](#The-Project)
+[Related Work](#Related-work)
+[The Model and the Task](#The-Model-and-the-Task)
+[The Dataset](#The-Dataset)
+[Conculsion](#Conclusion)
+[Limitations](#Limitations)
+[Future Work](#Future-Work)
+**[TO RUN](#TO-RUN)**
+[References/Sources](#References/Sources)
 
 ## The Project: 
 Neutral writing and text is expected in many sectors related with the medium of language. For example, scientists, and journalists are all expected to use less opinionated and more factual language. However, the ambiguity of language makes the task of spotting bias or subjectivities in text very hard. Moreover, the terms objective and subjective are themselves ambiguous. Consequently, developing a model to classify text as being neutral and subjective is a challenging yet interesting task. There are also significant implications for Natural Language Processing (NLP) since subjectivity can be helpful for information extraction (Riloff, Wiebe, and Philips, 2005). Subjectivity analysis can also be useful in industry, in the form of an application, in order to assess the objectivity of text, for example in a given Wikipedia entry, a newspaper article, or an academic publication. 
