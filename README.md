@@ -1,4 +1,4 @@
-# Subjectivity-Classifier-
+# [Subjectivity-Classifier](https://alexisjcarras.github.io/Subjectivity-Classifier-/) 
 
 ### Table of Contents:
 
@@ -9,7 +9,7 @@
 [Conculsion](#Conclusion)<br>
 [Limitations](#Limitations)<br>
 [Future Work](#Future-Work)<br>
-**[TO RUN](#TO-RUN)**<br>
+**[How to run](#TO-RUN)**<br>
 [References/Sources](#References/Sources)<br>
 
 ## The Project: 
